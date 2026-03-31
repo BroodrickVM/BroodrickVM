@@ -7,7 +7,7 @@
 </p>
 
 ## 🚀 About Me
-I am an aspiring **Data Analyst** and **Business Analytics graduate student** passionate about using data to uncover insights, solve problems, and support strategic decisions.
+I am an aspiring **Business Analytics graduate student** passionate about using data to uncover insights, solve problems, and support strategic decisions.
 
 My interests include:
 - Data Analytics
@@ -49,7 +49,3 @@ Failure has been part of my journey, but giving up has never been an option.
 
 ---
 
-## 📈 GitHub Stats
-![Velaphi's GitHub stats](https://github-readme-stats.vercel.app/api?username=BroodrickVM&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BroodrickVM&layout=compact&theme=default)
